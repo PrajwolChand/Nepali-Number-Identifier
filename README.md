@@ -66,7 +66,7 @@ Phone Number Identifier/
 ```
 
 ---
-
+Please see master branch to view the source code or there is jar file in main branch
 ## 👨‍💻 Author
 
 **Prajwol Chand**  
